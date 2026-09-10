@@ -1,0 +1,14 @@
+# Datos generados por Home Assistant (no son plantilla, son tu instancia local)
+homeassistant/.storage/
+homeassistant/.cloud/
+homeassistant/home-assistant.log
+homeassistant/home-assistant_v2.db
+homeassistant/secrets.yaml
+
+# Datos generados por Mosquitto
+mosquitto/data/
+mosquitto/log/
+
+# Datos generados por Node-RED
+nodered/.config.*
+nodered/lib/flows/
