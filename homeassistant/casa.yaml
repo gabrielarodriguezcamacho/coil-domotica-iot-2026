@@ -1,0 +1,10 @@
+title: Casa
+views:
+  - title: Casa
+    type: panel
+    cards:
+      - type: custom:home-assistant-3d-floorplan
+        title: 3D Floorplan
+        model: /local/floorplans/casa.glb
+        view_mode: "3d"
+        markers: []

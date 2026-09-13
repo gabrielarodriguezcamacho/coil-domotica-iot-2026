@@ -4,6 +4,12 @@ homeassistant/.cloud/
 homeassistant/home-assistant.log
 homeassistant/home-assistant_v2.db
 homeassistant/secrets.yaml
+homeassistant/custom_components/hacs/
+homeassistant/*.log*
+homeassistant/.cache/
+homeassistant/.HA_VERSION
+homeassistant/.ha_run.lock
+homeassistant/home-assistant_v2.db*
 
 # Datos generados por Mosquitto
 mosquitto/data/
@@ -12,3 +18,4 @@ mosquitto/log/
 # Datos generados por Node-RED
 nodered/.config.*
 nodered/lib/flows/
+
