@@ -8,3 +8,178 @@ views:
         model: /local/floorplans/casa.glb
         view_mode: "3d"
         markers: []
+        ambient_darkness:
+          entity: sun.sun
+          day_opacity: 0.5
+          night_opacity: 1
+        brightness_zones:
+          - id: area-7
+            name: Baño1
+            color: "#f8d66d"
+            height: 0.0000
+            day_opacity: 0.5000
+            night_opacity: 1.0000
+            lighting_mode: positional
+            points:
+              - x: 20
+                z: -18
+              - x: 23
+                z: -18
+              - x: 23
+                z: -17
+              - x: 20
+                z: -17
+          - id: area-8
+            name: Baño2
+            color: "#f8d66d"
+            height: 0.0000
+            day_opacity: 0.5000
+            night_opacity: 1.0000
+            lighting_mode: positional
+            points:
+              - x: 19
+                z: -22
+              - x: 21
+                z: -22
+              - x: 21
+                z: -20
+              - x: 19
+                z: -20
+          - id: area-2
+            name: Cocina
+            color: "#f8d66d"
+            height: 0.0000
+            day_opacity: 0.5000
+            night_opacity: 1.0000
+            lighting_mode: positional
+            points:
+              - x: 18
+                z: -17
+              - x: 18
+                z: -15
+              - x: 23
+                z: -15
+              - x: 23
+                z: -17
+          - id: area-4
+            name: Dormitorio1
+            color: "#f8d66d"
+            height: 0.0000
+            day_opacity: 0.5000
+            night_opacity: 1.0000
+            lighting_mode: positional
+            points:
+              - x: 14
+                z: -18
+              - x: 17
+                z: -18
+              - x: 17
+                z: -15
+              - x: 14
+                z: -15
+          - id: area-5
+            name: Dormitorio2
+            color: "#f8d66d"
+            height: 0.0000
+            day_opacity: 0.5000
+            night_opacity: 1.0000
+            lighting_mode: positional
+            points:
+              - x: 16
+                z: -22
+              - x: 19
+                z: -22
+              - x: 19
+                z: -19
+              - x: 16
+                z: -19
+          - id: area-6
+            name: Dormitorio3
+            color: "#f8d66d"
+            height: 0.0000
+            day_opacity: 0.5000
+            night_opacity: 1.0000
+            lighting_mode: positional
+            points:
+              - x: 21
+                z: -22
+              - x: 24
+                z: -22
+              - x: 24
+                z: -19
+              - x: 21
+                z: -19
+          - id: area-10
+            name: Lavadora
+            color: "#f8d66d"
+            height: 0.0000
+            day_opacity: 0.5000
+            night_opacity: 1.0000
+            lighting_mode: positional
+            points:
+              - x: 23
+                z: -18
+              - x: 25
+                z: -18
+              - x: 25
+                z: -15
+              - x: 23
+                z: -15
+          - id: area-9
+            name: Pasillo
+            color: "#f8d66d"
+            height: 0.0000
+            day_opacity: 0.5000
+            night_opacity: 1.0000
+            lighting_mode: positional
+            points:
+              - x: 19
+                z: -20
+              - x: 20
+                z: -20
+              - x: 20
+                z: -17
+              - x: 18
+                z: -17
+              - x: 18
+                z: -18
+              - x: 19
+                z: -18
+          - id: area-1
+            name: Salón
+            color: "#f8d66d"
+            height: 0.0000
+            day_opacity: 0.5000
+            night_opacity: 1.0000
+            lighting_mode: positional
+            points:
+              - x: 15
+                z: -15
+              - x: 18
+                z: -15
+              - x: 23
+                z: -15
+              - x: 23
+                z: -12
+              - x: 16
+                z: -12
+              - x: 15
+                z: -13
+              - x: 15
+                z: -14
+          - id: area-3
+            name: Terraza
+            color: "#f8d66d"
+            height: 0.0000
+            day_opacity: 0.5000
+            night_opacity: 1.0000
+            lighting_mode: positional
+            points:
+              - x: 23
+                z: -15
+              - x: 25
+                z: -15
+              - x: 25
+                z: -12
+              - x: 23
+                z: -12
